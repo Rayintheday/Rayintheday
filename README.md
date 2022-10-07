@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+I'm Ray, a lifelong and dedicated data learner  
+- :seedling: **About me** :seedling:
+
+
 
 <!--
 **Rayintheday/Rayintheday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
